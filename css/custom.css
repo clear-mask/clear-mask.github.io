@@ -6,7 +6,7 @@ body {
 
 .global_container {
     width: 100%;
-    max-width: 1600px; /* 增加最大宽度到1600px */
+    max-width: 1800px; /* 增加最大宽度到1600px */
     margin: 0 auto; /* 居中页面 */
     display: flex;
     align-items: center;
@@ -17,7 +17,7 @@ body {
 
 .section {
     width: 100%;
-    max-width: 1400px; /* 增加最大宽度到1400px */
+    max-width: 1600px; /* 增加最大宽度到1400px */
     margin: 0 auto;
     text-align: center;
 }
